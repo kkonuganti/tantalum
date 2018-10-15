@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "property.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'property.prefix'"
+  },
+  {
+    "name": "property.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'property.suffix'"
+  }
+]}
