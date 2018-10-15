@@ -11,4 +11,4 @@ service uses h2:mem DB, hence data will be lost once services are stopped.
 a data loader component is defined which loads sample data during application start.
 
 
-# tried using Eureka for service discovey, but was not able to run due to limitations on office laptop. Happy to explain in detail.
+tried using Eureka for service discovey, but was not able to run due to limitations on office laptop. Happy to explain in detail.
